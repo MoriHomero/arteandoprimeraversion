@@ -1,0 +1,62 @@
+body {
+    font-family: 'Titillium Web', sans-serif;
+}
+
+.header{
+    min-height: 5vh;
+
+}
+
+.carousel-inner{
+    max-height: 95vh;
+}
+
+.galeria{
+    padding: 1%;
+    background-color: rgb(226, 225, 224);
+}
+
+
+.fila{
+    min-height: 42rem;
+}
+
+
+
+.fondo{
+    background-color: blanchedalmond;
+    text-align: center;
+}
+
+.noticias{
+    background-color: rgb(114, 98, 98);
+    text-align: center;
+}
+
+.tipo1 {
+    background-image: url(back/artista1back.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.tipo2 {
+    background-image: url(back/artista2back.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.tipo3 {
+    background-image: url(back/artista3back.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
+
+.tipo4 {
+    background-image: url(back/artista4back.jpg);
+    background-size: cover;
+    text-align: center;
+    color: white;
+}
